@@ -12,13 +12,13 @@
 	<parent>
 		<groupId>net.stickycode.parent</groupId>
 		<artifactId>sticky-jar</artifactId>
-		<version>1.9</version>
+		<version>1.20</version>
 	</parent>
 	<modelVersion>4.0.0</modelVersion>
 
 	<groupId>net.stickycode.stile</groupId>
 	<artifactId>stile-artifact-xml</artifactId>
-	<version>1.1-SNAPSHOT</version>
+	<version>0.1-SNAPSHOT</version>
 	<packaging>jar</packaging>
 
 	<name>stile-artifact-xml</name>
@@ -40,7 +40,7 @@
 		<dependency>
 			<groupId>net.stickycode.stile</groupId>
 			<artifactId>stile-artifact-api</artifactId>
-			<version>1.1-SNAPSHOT</version>
+			<version>0.1-SNAPSHOT</version>
 		</dependency>
 	</dependencies>
 
